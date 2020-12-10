@@ -4,7 +4,6 @@ from PySide6 import QtUiTools, QtGui
 from PySide6.QtWidgets import QApplication, QMainWindow, QTableWidgetItem, QMessageBox, QFileDialog
 import random
 import numpy
-from tkinter import filedialog
 from openpyxl import Workbook,styles
 from openpyxl.styles import Alignment,Border,Side
 
